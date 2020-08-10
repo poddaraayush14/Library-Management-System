@@ -1,0 +1,6 @@
+This C++ application is a Library Management System which features :
+	1. Registration of student in the system.
+	2. Maintaining the record of books in the stock.
+	3. Issue and return of book.
+	4. Maintaining an inbuilt database to keep record of student and books.
+	5. Finding the fine after late submission of book. 
